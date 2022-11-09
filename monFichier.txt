@@ -1,3 +1,5 @@
 Coucou ceci est du texte!
 
 Sur 2 lignes!
+
+Ceci est une modification locale indépendant de ce qu'il s'est passé entre les deux sur Github
